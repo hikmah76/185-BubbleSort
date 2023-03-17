@@ -50,6 +50,15 @@ void bubbleSortArray() {   // Procedure untuk menggurutkan array deangan metode 
 	}
 }
 
+
+int main () {
+	input();     // Memanggil read() dari class BubbleSort
+	bubbleSortArray();  // Memanggil bubbleSortArray() dari class BubbleSort
+	display();   // Memanggil display() dari class BubbleSort
+	return 0;
+
+
+
 	
 	
 	
